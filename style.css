@@ -1,0 +1,9 @@
+body {
+  font-family: Playfair, Playfair;
+  background: linear-gradient(to bottom, #86f45f, #62f12f);
+  color: white;
+  height: 110vh;
+  margin: 0;
+  display: grid;
+  place-items: center;
+}
